@@ -23,7 +23,7 @@ Installation details are below in its simplest form.
 
 </p>
 
-/////////////// Türkçe /////////////
+<h3>/////////////// Türkçe /////////////</h3>
 
 **Adım 1:**
 Dosyayı indirip masaüstüne attıktan sonra klasör içine Shift+Sağ Click yaparak PowerShell veya Komut Dizini İle Çalıştır Diyoruz.
@@ -39,7 +39,7 @@ Ardından Komut Dosyamıza Gelip Rol İd ve Footer Değiştiriyoruz.
 **Adım 4**
 Tekrar PowerShell veya Komut Dizinini Açarak "node ." komutuyla botu aktif kılıyoruz.
 
-/////////////// English //////////////////
+<h3>/////////////// English //////////////////</h3>
 
 **Step 1:**
 After downloading the file and putting it on the desktop, we Shift+Right Click into the folder and call it Run with PowerShell or Command Directory.
