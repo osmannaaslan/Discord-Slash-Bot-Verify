@@ -3,7 +3,7 @@ const { SlashCommandBuilder, EmbedBuilder } = require('discord.js')
 module.exports =  {
     data: new SlashCommandBuilder()
     .setName('verify')
-    .setDescription('with this command you will be able to access the rest of the server'),
+    .setDescription('**TR**Bu komut ile sunucunun geri kalanına erişebileceksiniz. **EN**With this command you will be able to access the rest of the server'),
     async execute(interaction, client) {
       const member = interaction.member;
 
